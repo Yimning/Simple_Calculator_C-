@@ -528,7 +528,7 @@ namespace calculate
 
 
 
-        //     *的运算
+        // *的运算
         private void btn_multi_Click(object sender, EventArgs e)
         {
             try
@@ -580,9 +580,7 @@ namespace calculate
         }
         
 
-        
-
-
+ 
 
        
 
